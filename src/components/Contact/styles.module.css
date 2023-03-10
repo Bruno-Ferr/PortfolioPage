@@ -1,0 +1,14 @@
+.container {
+  padding: 5rem;
+  width: 100%;
+}
+
+.contactPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container h1 {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+}
+
+.navbar {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  width: 1130px;
+}
+
+.logo {
+  margin: 26px 0;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.menu {
+  margin: 26px 0;
+}
+
+.menu a {
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 8px;
+  margin: 0 15px;
+  color: #fff;
+}
+
+/* Trocar link selecionado em cada página */

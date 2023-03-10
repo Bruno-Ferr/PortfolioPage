@@ -1,0 +1,22 @@
+.container {
+  padding: 5rem;
+  width: 100%;
+}
+
+.home {
+  width: 1130px;
+  margin: 0 auto;
+  height: 530px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container h1 {
+  font-size: 44px;
+  font-weight: 700;
+}
+
+.container p {
+  font-size: 20px;
+}
