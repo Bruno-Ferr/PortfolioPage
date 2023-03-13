@@ -7,13 +7,16 @@
   margin: 20px auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
   max-width: 1130px;
 }
 
+.aboutMePage h1{
+  align-self: center;
+}
+
 .aboutMe {
+  margin-top: 5rem;
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 

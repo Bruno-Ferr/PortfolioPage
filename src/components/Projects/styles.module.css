@@ -1,4 +1,5 @@
 .container {
+  background: #fff;
   padding: 5rem;
   width: 100%;
 }
@@ -16,10 +17,9 @@
 
 .project {
   background: linear-gradient(180deg, rgba(39,43,43,1) 0%, rgba(22,22,22,1) 100% );
-
   display: flex;
   justify-content: space-around;
-  margin: 10px;
+  margin: 5rem;
   padding: 12px; 
   border-radius: 40px;
 }

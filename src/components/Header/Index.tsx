@@ -5,7 +5,7 @@ export function Header() {
     <div className={styles.container}>
       <div className={styles.navbar}>
         <div className={styles.logo}>
-          Bruno
+          B
         </div>
         <div className={styles.menu}>
           <a href="">Home</a>
